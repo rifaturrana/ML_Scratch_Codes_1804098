@@ -1,0 +1,15 @@
+Day,Temperature,Outlook,Humidity,Windy,Play Golf?
+5-Jul,hot,sunny,high,FALSE,no
+6-Jul,hot,sunny,high,TRUE,no
+7-Jul,hot,overcast,high,FALSE,yes
+9-Jul,cool,rain,normal,FALSE,yes
+10-Jul,cool,overcast,normal,TRUE,yes
+12-Jul,mild,sunny,high,FALSE,no
+14-Jul,cool,sunny,normal,FALSE,yes
+15-Jul,mild,rain,normal,FALSE,yes
+20-Jul,mild,sunny,normal,TRUE,yes
+21-Jul,mild,overcast,high,TRUE,yes
+22-Jul,hot,overcast,normal,FALSE,yes
+23-Jul,mild,rain,high,TRUE,no
+26-Jul,cool,rain,normal,TRUE,no
+30-Jul,mild,rain,high,FALSE,yes
